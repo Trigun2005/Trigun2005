@@ -11,6 +11,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,git,github,html,css,bootstrap,js,react,nodejs,c,python)](https://github.com/TrigunGurumurti)
 <br>
 
